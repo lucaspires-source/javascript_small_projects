@@ -1,1 +1,2 @@
-# javascript_small_projects
+# Vanilla javascript training projects
+
