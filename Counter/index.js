@@ -15,11 +15,11 @@ btns.forEach((btn) =>{
             count--
             value.textContent=count
         }
-        if(styles.contains ('increase')){
+         else if(styles.contains ('increase')){
             count++
             value.textContent=count
         }
-        if(styles.contains ('reset')){
+         else if(styles.contains ('reset')){
             count = 0
             value.textContent=count
         }
